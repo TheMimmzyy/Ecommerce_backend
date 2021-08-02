@@ -6,6 +6,9 @@ An ecommerce backend that can be used to add, delete and alter: Products, catago
 Installation instructions:
 Run 'npm start' to start server and use command 'npm run seed' to fill databse with info.
 
+Walkthrough:
+https://youtu.be/_vnjvae8CgM
+
 Contribution Guideline:
 To contribute to this project, fork the repository and check for any errors.
 
